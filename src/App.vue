@@ -7,7 +7,8 @@
   </main>
   <footer>
     <div class="bg-dark text-light text-center p-4">
-      Made with 💖 by CodeWorks
+      <h5>Made By <a class="Text-White-Color" title="Link to Other Projects" href="https://github.com/Jarrod-Payton/">Jarrod
+    Payton</a></h5>
     </div>
   </footer>
 </template>
